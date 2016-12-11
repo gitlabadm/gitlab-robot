@@ -1,2 +1,0 @@
-# gitlab-robot
-GitLab Robot
